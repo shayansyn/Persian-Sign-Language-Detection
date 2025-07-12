@@ -39,13 +39,11 @@ While the current model is trained on a custom dataset for four specific Persian
 
 ## 🖼️ Dataset Samples
 
-Here are sample images from our custom dataset for the four implemented signs.
+Here are sample images from our custom dataset, demonstrating the model's real-time detection capabilities.
 
 | من (I/Me) | باید (Must/Should) | رفتن (To Go) | خونه (Home) |
 | :---: | :---: | :---: | :---: |
-| ![Man](./assets/man.jpg) | ![Bayad](./assets/bayad.jpg) | ![Raftan](./assets/raftan.jpg) | ![Khoone](./assets/khoone.jpg) |
-
-*(High-quality sample images will be added here soon.)*
+| <img src="./assets/man.jpg" width="200"/> | <img src="./assets/bayad.jpg" width="200"/> | <img src="./assets/raftan.jpg" width="200"/> | <img src="./assets/khoone.jpg" width="200"/> |
 
 ---
 
