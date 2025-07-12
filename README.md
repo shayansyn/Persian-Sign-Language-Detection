@@ -43,7 +43,7 @@ Here are sample images from our custom dataset for the four implemented signs.
 
 | من (I/Me) | باید (Must/Should) | رفتن (To Go) | خونه (Home) |
 | :---: | :---: | :---: | :---: |
-| *(Image Placeholder)* | *(Image Placeholder)* | *(Image Placeholder)* | *(Image Placeholder)* |
+| ![Man](./assets/man.jpg) | ![Bayad](./assets/bayad.jpg) | ![Raftan](./assets/raftan.jpg) | ![Khoone](./assets/khoone.jpg) |
 
 *(High-quality sample images will be added here soon.)*
 
