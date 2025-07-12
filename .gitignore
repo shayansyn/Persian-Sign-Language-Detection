@@ -1,0 +1,32 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Conda environment files
+venv/
+/venv/
+.venv/
+/env/
+env/
+.env/
+condaenv.y*ml
+
+# TensorFlow / Keras - VERY IMPORTANT
+# Ignore trained models, pre-trained models, datasets, and logs
+/Tensorflow/workspace/models/
+/Tensorflow/workspace/pre-trained-models/
+/Tensorflow/workspace/images/
+/Tensorflow/workspace/annotations/*.record
+/captured_images/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# IDE / Editor specific files
+.vscode/
+.idea/
+
+# Other
+*.zip
+*.pdf

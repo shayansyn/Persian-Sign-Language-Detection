@@ -1,0 +1,16 @@
+item { 
+	name:'Bayad'
+	id:1
+}
+item { 
+	name:'Khoone'
+	id:2
+}
+item { 
+	name:'Man'
+	id:3
+}
+item { 
+	name:'Raftan'
+	id:4
+}
